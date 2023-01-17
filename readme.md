@@ -1,5 +1,5 @@
 
-## 👋 Hello There!
+## 👋 Hi!
 
 I am a middle school student developer in Korea who is learning programming.
 
