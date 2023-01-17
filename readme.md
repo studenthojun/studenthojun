@@ -11,4 +11,4 @@ I am a middle school student developer in Korea who is learning programming.
 ## 📞 Contact
 <a href = "https://github.com/studenthojun"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Gmail" src ="https://img.shields.io/badge/65rfffrrds@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
- <img alt="Discord" src ="https://img.shields.io/badge/65rfffrrds@gmail.com-7289da.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+ <img alt="Discord" src ="https://img.shields.io/badge/hojun#8583-7289da.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
