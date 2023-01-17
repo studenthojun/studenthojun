@@ -9,5 +9,6 @@ I am a middle school student developer in Korea who is learning programming.
 <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## 📞 Contact
-- Mail : 65rfffrrd@gmail.com<Br>
-- Discord : hojun#8583  
+<a href = "https://github.com/studenthojun"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Gmail" src ="https://img.shields.io/badge/65rfffrrds@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+ <img alt="Discord" src ="https://img.shields.io/badge/65rfffrrds@gmail.com-7289da.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
