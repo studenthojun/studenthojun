@@ -1,7 +1,7 @@
 
 ## 👋 Hi!
 
-I am a middle school student developer in Korea who is learning programming.
+I am a student developer in Korea who is learning programming.
 
 ## 📚 Skills
 
